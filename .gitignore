@@ -1,0 +1,8 @@
+# Ignore everything, and use opt-in strategy
+*
+
+# Don't ignore me
+!.gitignore
+
+# Add script files
+!*.fsx
