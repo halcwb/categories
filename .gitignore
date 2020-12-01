@@ -6,3 +6,6 @@
 
 # Add script files
 !*.fsx
+
+# Add md documents
+!*.md
